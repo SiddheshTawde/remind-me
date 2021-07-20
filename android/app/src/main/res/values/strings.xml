@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remind Me</string>
+    <string name="widget_day">Day 0</string>
+    <string name="widget_progress">Progress 0.00%</string>
+    <integer name="widget_progress_bar">0</integer>
+    <string name="REMIND_ME_STORAGE_KEY">REMIND_ME_APP_STORAGE_KEY</string>
+    <string name="add_widget">Add widget</string>
+</resources>
